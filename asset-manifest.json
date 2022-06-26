@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/amer-academy/static/css/main.d3f0acbc.chunk.css",
-    "main.js": "/amer-academy/static/js/main.2019610a.chunk.js",
-    "main.js.map": "/amer-academy/static/js/main.2019610a.chunk.js.map",
+    "main.js": "/amer-academy/static/js/main.a71af7fa.chunk.js",
+    "main.js.map": "/amer-academy/static/js/main.a71af7fa.chunk.js.map",
     "runtime-main.js": "/amer-academy/static/js/runtime-main.3dce44f5.js",
     "runtime-main.js.map": "/amer-academy/static/js/runtime-main.3dce44f5.js.map",
-    "static/js/2.f841d402.chunk.js": "/amer-academy/static/js/2.f841d402.chunk.js",
-    "static/js/2.f841d402.chunk.js.map": "/amer-academy/static/js/2.f841d402.chunk.js.map",
+    "static/js/2.876659e6.chunk.js": "/amer-academy/static/js/2.876659e6.chunk.js",
+    "static/js/2.876659e6.chunk.js.map": "/amer-academy/static/js/2.876659e6.chunk.js.map",
     "index.html": "/amer-academy/index.html",
     "static/css/main.d3f0acbc.chunk.css.map": "/amer-academy/static/css/main.d3f0acbc.chunk.css.map",
-    "static/js/2.f841d402.chunk.js.LICENSE.txt": "/amer-academy/static/js/2.f841d402.chunk.js.LICENSE.txt",
+    "static/js/2.876659e6.chunk.js.LICENSE.txt": "/amer-academy/static/js/2.876659e6.chunk.js.LICENSE.txt",
     "static/media/1ث.6d5afb1c.png": "/amer-academy/static/media/1ث.6d5afb1c.png",
     "static/media/2ث.e11b24cd.png": "/amer-academy/static/media/2ث.e11b24cd.png",
     "static/media/3ث.dda2c419.png": "/amer-academy/static/media/3ث.dda2c419.png",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3dce44f5.js",
-    "static/js/2.f841d402.chunk.js",
+    "static/js/2.876659e6.chunk.js",
     "static/css/main.d3f0acbc.chunk.css",
-    "static/js/main.2019610a.chunk.js"
+    "static/js/main.a71af7fa.chunk.js"
   ]
 }
