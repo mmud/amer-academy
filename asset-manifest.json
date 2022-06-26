@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/amer-academy/static/css/main.d3f0acbc.chunk.css",
-    "main.js": "/amer-academy/static/js/main.c126cc31.chunk.js",
-    "main.js.map": "/amer-academy/static/js/main.c126cc31.chunk.js.map",
+    "main.js": "/amer-academy/static/js/main.2019610a.chunk.js",
+    "main.js.map": "/amer-academy/static/js/main.2019610a.chunk.js.map",
     "runtime-main.js": "/amer-academy/static/js/runtime-main.3dce44f5.js",
     "runtime-main.js.map": "/amer-academy/static/js/runtime-main.3dce44f5.js.map",
     "static/js/2.f841d402.chunk.js": "/amer-academy/static/js/2.f841d402.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.3dce44f5.js",
     "static/js/2.f841d402.chunk.js",
     "static/css/main.d3f0acbc.chunk.css",
-    "static/js/main.c126cc31.chunk.js"
+    "static/js/main.2019610a.chunk.js"
   ]
 }
